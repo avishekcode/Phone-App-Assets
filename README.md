@@ -1,6 +1,6 @@
 **Splash Screen**
 
-320px,480px - Default\~iphone
+320px,480px - Default\~iphone\n\n
 640px,960px - Default@2x\~iphone
 768px,1024px - Default-Portrait\~ipad
 1024px,768px - Default-Landscape\~ipad
