@@ -1,4 +1,4 @@
-**Splash Screen**
+**iOS - XCode - Splash Screen**
 
 320px,480px - Default\~iphone<BR><BR>
 640px,960px - Default@2x\~iphone<BR><BR>
