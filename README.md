@@ -1,1 +1,46 @@
-# Phone-App-Assets
+**Splash Screen**
+
+320px,480px - Default\~iphone
+640px,960px - Default@2x\~iphone
+768px,1024px - Default-Portrait\~ipad
+1024px,768px - Default-Landscape\~ipad
+1536px,2048px - Default-Portrait@2x\~ipad
+2048px,1536px - Default-Landscape@2x\~ipad
+640px,1136px - Default-568h@2x\~iphone
+750px,1334px - Default-667h
+1125px,2436px - Default-2436h
+2436px,1125px - Default-Landscape-2436h
+1242px,2208px - Default-736h
+2208px,1242px - Default-Landscape-736h
+1366px,1366px - Default@1x~universal\~anyany
+1366px,375px - Default@1x~universal\~anycom
+639px,1366px - Default@1x~universal\~comany
+667px,375px - Default@1x~universal\~comcom
+667px,667px - Default@1x~iphone\~anyany
+667px,375px - Default@1x~iphone\~anycom
+667px,667px - Default@1x~iphone\~comany
+667px,375px - Default@1x~iphone\~comcom
+1366px,1366px - Default@1x~ipad\~anyany
+1366px,639px - Default@1x~ipad\~anycom
+639px,1366px - Default@1x~ipad\~comany
+639px,639px - Default@1x~ipad\~comcom
+2732px,2732px - Default@2x~universal\~anyany
+2732px,750px - Default@2x~universal\~anycom
+1278px,2732px - Default@2x~universal\~comany
+1334px,750px - Default@2x~universal\~comcom
+1334px,1334px - Default@2x~iphone\~anyany
+1334px,750px - Default@2x~iphone\~anycom
+1334px,1334px - Default@2x~iphone\~comany
+1334px,750px - Default@2x~iphone\~comcom
+2732px,2732px - Default@2x~ipad\~anyany
+2732px,1278px - Default@2x~ipa\~anycom
+1278px,2732px - Default@2x~ipad\~comany
+1278px,1278px - Default@2x~ipad\~comcom
+2208px,2208px - Default@3x~universal~anyany
+2208px,1242px - Default@3x~universal\~anycom
+1242px,2208px - Default@3x~universal\~comany
+1242px,1242px - Default@3x~universal\~comcom
+2208px,2208px - Default@3x~iphone\~anyany
+2208px,1242px - Default@3x~iphone\~anycom
+1242px,2208px - Default@3x~iphone\~comany
+1242px,1242px - Default@3x~iphone\~comcom
