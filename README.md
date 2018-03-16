@@ -1,7 +1,7 @@
 ****iOS - XCode - Splash Screen****
 
-<platform name="ios">
-<splash src="res/splash/Default-568h@2x.png" width="640" height="1136"/>
+\<platform name="ios">
+\<splash src="res/splash/Default-568h@2x.png" width="640" height="1136"/>
 <splash src="res/splash/Default-iOS7-568h@2x.png" width="640" height="1136"/>
 <splash src="res/splash/Default-iOS7-Landscape.png" width="1024" height="768"/>
 <splash src="res/splash/Default-iOS7-Landscape@2x.png" width="2048" height="1536"/>
