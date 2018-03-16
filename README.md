@@ -1,4 +1,4 @@
-****iOS - XCode - Splash Screen****
+****iOS - XCode - config.xml for Splash Screen****
 
 \<platform name="ios">
 <BR>\<splash src="res/splash/Default-568h@2x.png" width="640" height="1136"/>
