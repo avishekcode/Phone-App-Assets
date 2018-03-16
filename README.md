@@ -1,46 +1,56 @@
 ****iOS - XCode - Splash Screen****
 
-320px,480px - Default\~iphone<BR><BR>
-640px,960px - Default@2x\~iphone<BR><BR>
-768px,1024px - Default-Portrait\~ipad<BR><BR>
-1024px,768px - Default-Landscape\~ipad<BR><BR>
-1536px,2048px - Default-Portrait@2x\~ipad<BR><BR>
-2048px,1536px - Default-Landscape@2x\~ipad<BR><BR>
-640px,1136px - Default-568h@2x\~iphone<BR><BR>
-750px,1334px - Default-667h<BR><BR>
-1125px,2436px - Default-2436h<BR><BR>
-2436px,1125px - Default-Landscape-2436h<BR><BR>
-1242px,2208px - Default-736h<BR><BR>
-2208px,1242px - Default-Landscape-736h<BR><BR>
-1366px,1366px - Default@1x\~universal\~anyany<BR><BR>
-1366px,375px - Default@1x\~universal\~anycom<BR><BR>
-639px,1366px - Default@1x\~universal\~comany<BR><BR>
-667px,375px - Default@1x\~universal\~comcom<BR><BR>
-667px,667px - Default@1x\~iphone\~anyany<BR><BR>
-667px,375px - Default@1x\~iphone\~anycom<BR><BR>
-667px,667px - Default@1x\~iphone\~comany<BR><BR>
-667px,375px - Default@1x\~iphone\~comcom<BR><BR>
-1366px,1366px - Default@1x\~ipad\~anyany<BR><BR>
-1366px,639px - Default@1x\~ipad\~anycom<BR><BR>
-639px,1366px - Default@1x\~ipad\~comany<BR><BR>
-639px,639px - Default@1x\~ipad\~comcom<BR><BR>
-2732px,2732px - Default@2x\~universal\~anyany<BR><BR>
-2732px,750px - Default@2x\~universal\~anycom<BR><BR>
-1278px,2732px - Default@2x\~universal\~comany<BR><BR>
-1334px,750px - Default@2x\~universal\~comcom<BR><BR>
-1334px,1334px - Default@2x\~iphone\~anyany<BR><BR>
-1334px,750px - Default@2x\~iphone\~anycom<BR><BR>
-1334px,1334px - Default@2x\~iphone\~comany<BR><BR>
-1334px,750px - Default@2x\~iphone\~comcom<BR><BR>
-2732px,2732px - Default@2x\~ipad\~anyany<BR><BR>
-2732px,1278px - Default@2x\~ipa\~anycom<BR><BR>
-1278px,2732px - Default@2x\~ipad\~comany<BR><BR>
-1278px,1278px - Default@2x\~ipad\~comcom<BR><BR>
-2208px,2208px - Default@3x\~universal~anyany<BR><BR>
-2208px,1242px - Default@3x\~universal\~anycom<BR><BR>
-1242px,2208px - Default@3x\~universal\~comany<BR><BR>
-1242px,1242px - Default@3x\~universal\~comcom<BR><BR>
-2208px,2208px - Default@3x\~iphone\~anyany<BR><BR>
-2208px,1242px - Default@3x\~iphone\~anycom<BR><BR>
-1242px,2208px - Default@3x\~iphone\~comany<BR><BR>
-1242px,1242px - Default@3x\~iphone\~comcom<BR><BR>
+<platform name="ios">
+<splash src="res/splash/Default-568h@2x.png" width="640" height="1136"/>
+<splash src="res/splash/Default-iOS7-568h@2x.png" width="640" height="1136"/>
+<splash src="res/splash/Default-iOS7-Landscape.png" width="1024" height="768"/>
+<splash src="res/splash/Default-iOS7-Landscape@2x.png" width="2048" height="1536"/>
+<splash src="res/splash/Default-iOS7-Portrait.png" width="768" height="1024"/>
+<splash src="res/splash/Default-iOS7-Portrait@2x.png" width="1536" height="2048"/>
+<splash src="res/splash/Default-iOS7@2x.png" width="640" height="960"/>
+<splash src="res/splash/Default-iOS8-667h@2x.png" width="750" height="1334"/>
+<splash src="res/splash/Default-iOS8-736h@3x.png" width="1242" height="2208"/>
+<splash src="res/splash/Default-iOS8-Landscape-736h@3x.png" width="2208" height="1242"/>
+<splash src="res/splash/Default-Landscape.png" width="1024" height="748"/>
+<splash src="res/splash/Default-Landscape@2x.png" width="2048" height="1496"/>
+<splash src="res/splash/Default-Portrait.png" width="768" height="1004"/>
+<splash src="res/splash/Default-Portrait@2x.png" width="1536" height="2008"/>
+<splash src="res/splash/Default.png" width="320" height="480"/>
+<splash src="res/splash/Default@2x.png" width="640" height="960"/>
+<splash src="res/splash/Default-2436h.png" width="1125" height="2436"/>
+<splash src="res/splash/Default-Landscape-2436h.png" width="2436" height="1125"/>
+<splash src="res/splash/Default-667h.png.png" width="750" height="1334"/>
+<splash src="res/splash/Default-736h.png.png" width="1242" height="2208"/>
+<splash src="res/splash/Default@1x\~universal\~anyany.png" width="1366" height="1366"/>
+<splash src="res/splash/Default@1x\~universal\~anycom.png" width="1366" height="375"/>
+<splash src="res/splash/Default@1x\~universal\~comany.png" width="639" height="1366"/>
+<splash src="res/splash/Default@1x\~universal\~comcom.png" width="667" height="375"/>
+<splash src="res/splash/Default@1x\~iphone\~anyany.png" width="667" height="667"/>
+<splash src="res/splash/Default@1x\~iphone\~anycom.png" width="667" height="375"/>
+<splash src="res/splash/Default@1x\~iphone\~comany.png" width="667" height="667"/>
+<splash src="res/splash/Default@1x\~iphone\~comcom.png" width="667" height="375"/>
+<splash src="res/splash/Default@1x\~ipad\~anyany.png" width="1366" height="1366"/>
+<splash src="res/splash/Default@1x\~ipad\~anycom.png" width="1366" height="639"/>
+<splash src="res/splash/Default@1x\~ipad\~comany.png" width="639" height="1366"/>
+<splash src="res/splash/Default@1x\~ipad\~comcom.png" width="639" height="639"/>
+<splash src="res/splash/Default@2x\~universal\~anyany.png" width="2732" height="2732"/>
+<splash src="res/splash/Default@2x\~universal\~anycom.png" width="2732" height="750"/>
+<splash src="res/splash/Default@2x\~universal\~comany.png" width="1278" height="2732"/>
+<splash src="res/splash/Default@2x\~universal\~comcom.png" width="1334" height="750"/>
+<splash src="res/splash/Default@2x\~iphone\~anyany.png" width="1334" height="1334"/>
+<splash src="res/splash/Default@2x\~iphone\~anycom.png" width="1334" height="750"/>
+<splash src="res/splash/Default@2x\~iphone\~comany.png" width="750" height="1334"/>
+<splash src="res/splash/Default@2x\~iphone\~comcom.png" width="1334" height="750"/>
+<splash src="res/splash/Default@2x\~ipad\~anyany.png" width="2732" height="2732"/>
+<splash src="res/splash/Default@2x\~ipad\~anycom.png" width="2732" height="1278"/>
+<splash src="res/splash/Default@2x\~ipad\~comany.png" width="1278" height="2732"/>
+<splash src="res/splash/Default@2x\~ipad\~comcom.png" width="1278" height="1278"/>
+<splash src="res/splash/Default@3x\~universal\~anyany.png" width="2208" height="2208"/>
+<splash src="res/splash/Default@3x\~universal\~anycom.png" width="2208" height="1242"/>
+<splash src="res/splash/Default@3x\~universal\~comany.png" width="1242" height="2208"/>
+<splash src="res/splash/Default@3x\~universal\~comcom.png" width="1242" height="1242"/>
+<splash src="res/splash/Default@3x\~iphone\~anyany.png" width="2208" height="2208"/>
+<splash src="res/splash/Default@3x\~iphone\~anycom.png" width="2208" height="1242"/>
+<splash src="res/splash/Default@3x\~iphone\~comany.png" width="1242" height="2208"/>
+<splash src="res/splash/Default@3x\~iphone\~comcom.png" width="1242" height="1242"/>
+</platform>
